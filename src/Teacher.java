@@ -5,5 +5,14 @@ public class Teacher {
         this.lastname=lastname;
         this.idnumber=id;
     }
+    String getFirstname(){
+        return this.firstname;
+    }
+    String getLastname(){
+        return  this.lastname;
+    }
+    String idnumber(){
+        return this.idnumber;
+    }
 
 }
