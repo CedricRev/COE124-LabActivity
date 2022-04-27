@@ -11,7 +11,7 @@ public class Teacher {
     String getLastname(){
         return  this.lastname;
     }
-    String idnumber(){
+    String getidnumber(){
         return this.idnumber;
     }
 
